@@ -29,7 +29,6 @@ SOFTWARE.
  */
 
 #include <Keyboard.h>
-#include <Mouse.h>
 
 #if 0
 /* Arduino Zero */
